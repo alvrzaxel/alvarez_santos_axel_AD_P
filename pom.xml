@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>alvarez_santos_axel_AD_P</artifactId>
+    <artifactId>AD03_TE01</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -13,5 +13,20 @@
         <maven.compiler.target>23</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <dependencies>
+
+        <!--
+            MySQL Connector/J: Controlador JDBC para conectar con bases de datos MySQL
+            Permite que la aplicación Java pueda comunicarse y realizar operaciones con una
+            base de datos MySQL a través de la interfaz JDBC
+        -->
+        <dependency>
+            <groupId>com.mysql</groupId>
+            <artifactId>mysql-connector-j</artifactId>
+            <version>8.2.0</version>
+        </dependency>
+
+    </dependencies>
 
 </project>
