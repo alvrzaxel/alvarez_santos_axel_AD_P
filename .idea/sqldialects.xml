@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/src/main/java/Ejercicio2/PopulationReport.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Ejercicio3/PopulationReport.java" dialect="GenericSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/1a1f1564-c16a-47a5-beba-9d59fa5d3143/console.sql" dialect="MySQL" />
   </component>
 </project>
